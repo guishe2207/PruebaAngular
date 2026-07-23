@@ -1,0 +1,25 @@
+Respuesta Preguntas
+
+1. ¿Qué tanto conocen el lenguaje base?
+
+Se eligió Spring Boot + Angular porque utilizan Java y TypeScript, dos lenguajes ampliamente utilizados en el desarrollo de software. 
+Ambos cuentan con una gran comunidad, abundante documentación y herramientas que facilitan el desarrollo y
+mantenimiento de aplicaciones.
+
+2. ¿El proyecto necesita SEO?
+
+El SEO no fue un criterio determinante para la elección del stack. Angular ofrece un excelente rendimiento 
+para aplicaciones web y, en caso de ser necesario, permite implementar soluciones para mejorar el posicionamiento 
+en buscadores.
+
+3. ¿Cuánto tiempo tienen?
+
+Spring Boot y Angular permiten reducir los tiempos de desarrollo gracias a sus herramientas integradas,
+generación automática de código y estructura organizada, lo que facilita crear aplicaciones de forma 
+más rápida y eficiente.
+
+4. ¿Separar frontend y backend o todo en uno?
+
+Se optó por separar el frontend y el backend, utilizando Angular para la interfaz de usuario y Spring Boot para
+la lógica de negocio. Esto mejora la organización del proyecto, facilita el mantenimiento y permite escalar cada
+parte de forma independiente.
